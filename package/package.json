@@ -1,0 +1,23 @@
+{
+  "name": "testpackage",
+  "version": "1.0.0",
+  "description": "test-package vipin ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testpackage/helloworld.git"
+  },
+  "keywords": [
+    "hello",
+    "worldd"
+  ],
+  "author": "vipinsuju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/testpackage/helloworld/issues"
+  },
+  "homepage": "https://github.com/testpackage/helloworld#readme"
+}
