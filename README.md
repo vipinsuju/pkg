@@ -1,1 +1,1 @@
-# pkg
+# hello-world-package
